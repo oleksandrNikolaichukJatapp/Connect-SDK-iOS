@@ -5,7 +5,7 @@
 [submodule "core"]
 	path = core
 	url = https://github.com/oleksandrNikolaichukJatapp/Connect-SDK-iOS-Core.git
-	branch = jatapp
+	branch = jatapp-pin-pairing-support
 [submodule "modules/firetv"]
 	path = modules/firetv
 	url = https://github.com/ConnectSDK/Connect-SDK-iOS-FireTV.git
